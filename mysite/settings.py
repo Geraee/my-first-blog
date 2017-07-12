@@ -25,7 +25,7 @@ SECRET_KEY = '0+cel(gt)^%osr3t3xjo4jpw^-=z&8_j7@ll1#za*!@t=+4r*^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<gerae>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'gerae.pythonanywhere.com']
 
 
 # Application definition
